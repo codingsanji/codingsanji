@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src="https://komarev.com/ghpvc/?username=codingsanji&label=Profile%20views&color=0e75b6&style=flat" alt=views>
+<!--<img src="https://komarev.com/ghpvc/?username=codingsanji&label=Profile%20views&color=0e75b6&style=flat" alt=views>-->
 <h3>Hi there, I am Deydeepya irl, but right here, I'm codingsanji (since I love to cook code!)👋</h3>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qdkq24rzp5r5yqmxhod6reqztu&count=2">
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
