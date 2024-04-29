@@ -12,6 +12,6 @@
     <img style="max-width: 50px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=codingsanji&show_icons=true&theme=radical" alt="GitHub Stats">
     <img style="max-width: 50px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingsanji&layout=compact&langs_count=8" alt="Top Languages">
 </div>
-<img src="https://raw.githubusercontent.com/codingsanji/codingsanji/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/codingsanji/codingsanji/output/snake.svg" alt="Snake animation" />-->
 </body>
 </html>
