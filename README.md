@@ -13,7 +13,7 @@
 </div>
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <img style="max-width: 50px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=codingsanji&rank_icon=github&theme=radical" alt="GitHub Stats">
-    <img style="max-width: 100px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingsanji&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
+    <img style="max-width: 100px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingsanji&layout=compact&langs_count=6&theme=dracula" alt="Top Languages">
 </div>
 <!--<img src="https://raw.githubusercontent.com/codingsanji/codingsanji/output/snake.svg" alt="Snake animation" />-->
 </body>
