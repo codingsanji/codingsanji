@@ -20,5 +20,7 @@
     <h4> Here's a cute little snake game enacted on my activity 👇(o˘◡˘o) </h4>
     <img src="https://raw.githubusercontent.com/codingsanji/codingsanji/output/snake.svg" alt="Snake animation" />
 </div>
+<h4>I'm currently working on <a href ="https://github.com/ZenithGo/Web-Interface">Zenith-Go </a> and an<a href="https://github.com/codebyviral/iisppr-intern-management"> Intern Management Application </a>. Let's connect and keep creating :)</h4>
+
 </body>
 </html>
