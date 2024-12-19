@@ -31,6 +31,5 @@
     <h4> Here's a cute little snake game enacted on my activity 👇(o˘◡˘o) </h4>
     <img src="https://raw.githubusercontent.com/codingsanji/codingsanji/output/snake.svg" alt="Snake animation" />
 </div>
-certified yapper
 </body>
 </html>
