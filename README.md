@@ -1,5 +1,5 @@
 <!--<img src="https://komarev.com/ghpvc/?username=codingsanji&label=Profile%20views&color=0e75b6&style=flat" alt="views">-->
-<h2>Hi, I am Deydeepya irl, but right here, I'm codingsanji (since I love to cook code!)👋</h2>>
+<h2>Hi, I am Deydeepya irl, but right here, I'm codingsanji (since I love to cook code!)👋</h2>
 
 ## 💻 Tech Stack 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
