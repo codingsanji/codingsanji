@@ -1,8 +1,9 @@
 <!--<img src="https://komarev.com/ghpvc/?username=codingsanji&label=Profile%20views&color=0e75b6&style=flat" alt="views">-->
 <h2>Hi, I am Deydeepya irl, but right here, I'm codingsanji (since I love to cook code!)👋</h2>
 
+<h3>For more info and to view my portfolio site, press <a href="https://codingsanji.github.io/portfolio/">here</a>.</h3>
 
-## 💻 Tech Stack 
+## Tech Stack 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +19,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-<!--## ✨ My Activity
+<!-- My Activity
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qdkq24rzp5r5yqmxhod6reqztu&count=3" alt="Recently Played">
     <img style=" max-width: 580px;height: 215px; width:343px" src="me.gif" alt="Me-he-he">
