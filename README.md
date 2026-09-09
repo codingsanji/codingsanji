@@ -16,7 +16,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
+<!--
 ## My Activity
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qdkq24rzp5r5yqmxhod6reqztu&count=3" alt="Recently Played">
@@ -27,7 +27,7 @@
     <img style="max-width: 100px; height: 180px;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=codingsanji&layout=compact&langs_count=6&theme=dracula" alt="Top Languages">
 </div>
 
-<!--    
+    
 <div>
     <h4> Here's a cute little snake game enacted on my activity 👇(o˘◡˘o) </h4>
     <img src="https://raw.githubusercontent.com/codingsanji/codingsanji/output/snake.svg" alt="Snake animation" />
